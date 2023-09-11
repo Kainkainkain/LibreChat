@@ -3,7 +3,7 @@
     <img src="docs/assets/LibreChat.svg" height="256">
   </a>
   <a href="https://docs.librechat.ai">
-    <h1 align="center">LibreChat</h1>
+    <h1 align="center">LibreChat locally on kains pc</h1>
   </a>
 </p>
 
